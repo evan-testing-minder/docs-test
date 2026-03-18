@@ -7,7 +7,7 @@ header:
 project:
   administrators:
   - name: evankanderson
-    primary: false
+    primary: true
   name: docs-test
   repositories:
   - comment: Copy of docs from https://github.com/stacklok/minder to test javascript
