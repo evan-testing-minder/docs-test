@@ -2,10 +2,8 @@
 header:
   last-reviewed: "2026-03-17"
   last-updated: "2026-03-17"
-  schema_version: 2.2.0
-license:
-  expression: Apache-2.0
-  url: https://api.github.com/licenses/apache-2.0
+  schema-version: 2.2.0
+  url: https://github.com/evan-testing-minder/docs-test/raw/main/.github/security-insights.yml
 project:
   administrators:
   - name: evankanderson
@@ -25,6 +23,9 @@ repository:
   core-team:
   - name: evankanderson
     primary: false
+  license:
+    expression: Apache-2.0
+    url: https://api.github.com/licenses/apache-2.0
   documentation: {}
   security:
     assessments: {}
