@@ -17,13 +17,18 @@ project:
   vulnerability-reporting:
     bug-bounty-available: false
     reports-accepted: true
+  homepage: https://github.com/evan-testing-minder/docs-test
 repository:
   accepts-automated-change-request: true
   accepts-change-request: true
-  core-team: []
+  core-team:
+    - name: evankanderson
+      primary: true
+    - name: custcodian-dev
+      primary: false
   license:
-    expression: Unknown
-    url: mailto:nobody@example.com
+    expression: Apache-2.0
+    url: https://api.github.com/licenses/apache-2.0
   documentation: {}
   security:
     assessments: {}
