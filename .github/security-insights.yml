@@ -6,6 +6,8 @@ header:
   url: https://raw.githubusercontent.com/evan-testing-minder/docs-test/main/.github/security-insights.yml
 project:
   administrators:
+    - name: custcodian-dev
+      primary: false
     - name: evankanderson
       primary: true
   name: docs-test
