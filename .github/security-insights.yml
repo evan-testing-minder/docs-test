@@ -20,12 +20,10 @@ project:
 repository:
   accepts-automated-change-request: true
   accepts-change-request: true
-  core-team:
-  - name: evankanderson
-    primary: false
+  core-team: []
   license:
-    expression: Apache-2.0
-    url: https://api.github.com/licenses/apache-2.0
+    expression: Unknown
+    url: mailto:nobody@example.com
   documentation: {}
   security:
     assessments: {}
