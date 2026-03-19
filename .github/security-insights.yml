@@ -6,18 +6,17 @@ header:
   url: https://raw.githubusercontent.com/evan-testing-minder/docs-test/main/.github/security-insights.yml
 project:
   administrators:
-  - name: evankanderson
-    primary: true
+    - name: evankanderson
+      primary: true
   name: docs-test
   repositories:
-  - comment: Copy of docs from https://github.com/stacklok/minder to test javascript
-      dependency parsing.
-    name: docs-test
-    url: https://github.com/evan-testing-minder/docs-test
+    - comment: Copy of docs from https://github.com/stacklok/minder to test javascript dependency parsing.
+      name: docs-test
+      url: https://github.com/evan-testing-minder/docs-test
   vulnerability-reporting:
     bug-bounty-available: false
     reports-accepted: true
-  homepage: https://github.com/evan-testing-minder/docs-test
+  homepage: https://custcodian.dev/
 repository:
   accepts-automated-change-request: true
   accepts-change-request: true
@@ -34,4 +33,3 @@ repository:
     assessments: {}
   status: active
   url: https://github.com/evan-testing-minder/docs-test
-
