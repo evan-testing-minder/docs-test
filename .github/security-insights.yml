@@ -22,10 +22,10 @@ repository:
   accepts-automated-change-request: true
   accepts-change-request: true
   core-team:
-    - name: evankanderson
-      primary: true
     - name: custcodian-dev
       primary: false
+    - name: evankanderson
+      primary: true
   license:
     expression: Apache-2.0
     url: https://api.github.com/licenses/apache-2.0
